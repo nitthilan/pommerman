@@ -8,6 +8,8 @@
 
 ## To Do List
 
+## NIPS Competition
+- The env is PommeTeamCompetition-v0 There will only be collapsing walls if we cannot easily determine a winner from normal play.
 
 ## State
 - 11x11 board:
@@ -26,6 +28,10 @@
 - simulate the partial visibility??
 - switch the agents, enimies
 - Simulate the end cases by randomly generation of all possible end conditions?
+
+## Other codebases
+- dataset : https://github.com/tambetm/pommerman-baselines
+- C baseline : https://github.com/m2q/nips2018-agent
 
 
 ## References:
